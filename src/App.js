@@ -1,9 +1,9 @@
-import './App.css';
+import NavBar from './Home/NavBar';
 
 function App() {
 	return (
-		<div className='App'>
-			<h1>Landing page</h1>
+		<div>
+			<NavBar />
 		</div>
 	);
 }
